@@ -1,0 +1,2 @@
+# snort
+aku ingin belajar
